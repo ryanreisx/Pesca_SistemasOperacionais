@@ -9,7 +9,6 @@ print("-------------------------------------------------------------------------
 
 # Criando o mapa do jogo com 0s e 1s aleatoriamente
 mapa = np.random.choice([0, 1], size=(3, 3))
-print(mapa)
 print("")
 
 # Inicializando variáveis para armazenar informações do jogo
